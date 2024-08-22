@@ -1,0 +1,5 @@
+m=input("enter the string:")
+n=input("what you replace enter:")
+p=input("change the new letters enter:s")
+s=m.replace(n,p)
+print(s)
